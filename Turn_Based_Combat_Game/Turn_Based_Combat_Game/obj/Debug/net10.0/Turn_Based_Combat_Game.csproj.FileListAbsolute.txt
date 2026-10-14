@@ -1,0 +1,15 @@
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\bin\Debug\net10.0\Turn_Based_Combat_Game.exe
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\bin\Debug\net10.0\Turn_Based_Combat_Game.deps.json
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\bin\Debug\net10.0\Turn_Based_Combat_Game.runtimeconfig.json
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\bin\Debug\net10.0\Turn_Based_Combat_Game.dll
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\bin\Debug\net10.0\Turn_Based_Combat_Game.pdb
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\Turn_Based_Combat_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\Turn_Based_Combat_Game.AssemblyInfoInputs.cache
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\Turn_Based_Combat_Game.AssemblyInfo.cs
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\Turn_Based_Combat_Game.csproj.CoreCompileInputs.cache
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\Turn_Based_Combat_Game.dll
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\refint\Turn_Based_Combat_Game.dll
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\Turn_Based_Combat_Game.pdb
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\Turn_Based_Combat_Game.genruntimeconfig.cache
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\ref\Turn_Based_Combat_Game.dll
+C:\Users\Obimz01\source\repos\Turn_Based_Combat_Game\Turn_Based_Combat_Game\obj\Debug\net10.0\Turn_Bas.560AD383.Up2Date

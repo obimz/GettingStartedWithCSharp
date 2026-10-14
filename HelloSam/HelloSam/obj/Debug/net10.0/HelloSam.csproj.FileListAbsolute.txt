@@ -1,0 +1,15 @@
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\bin\Debug\net10.0\HelloSam.exe
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\bin\Debug\net10.0\HelloSam.deps.json
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\bin\Debug\net10.0\HelloSam.runtimeconfig.json
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\bin\Debug\net10.0\HelloSam.dll
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\bin\Debug\net10.0\HelloSam.pdb
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\HelloSam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\HelloSam.AssemblyInfoInputs.cache
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\HelloSam.AssemblyInfo.cs
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\HelloSam.csproj.CoreCompileInputs.cache
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\HelloSam.dll
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\refint\HelloSam.dll
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\HelloSam.pdb
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\HelloSam.genruntimeconfig.cache
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\ref\HelloSam.dll
+C:\Users\Obimz01\source\repos\HelloSam\HelloSam\obj\Debug\net10.0\HelloSam.csproj.Up2Date

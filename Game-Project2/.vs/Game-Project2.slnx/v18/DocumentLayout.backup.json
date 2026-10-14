@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Obimz01\\source\\repos\\Game-Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BFE50C-46AB-F133-EAFE-2599BB457E27}|Game-Project2\\Game-Project2.csproj|c:\\users\\obimz01\\source\\repos\\game-project2\\game-project2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BFE50C-46AB-F133-EAFE-2599BB457E27}|Game-Project2\\Game-Project2.csproj|solutionrelative:game-project2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BFE50C-46AB-F133-EAFE-2599BB457E27}|Game-Project2\\Game-Project2.csproj|c:\\users\\obimz01\\source\\repos\\game-project2\\game-project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BFE50C-46AB-F133-EAFE-2599BB457E27}|Game-Project2\\Game-Project2.csproj|solutionrelative:game-project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Obimz01\\source\\repos\\Game-Project2\\Game-Project2\\Game.cs",
+              "RelativeDocumentMoniker": "Game-Project2\\Game.cs",
+              "ToolTip": "C:\\Users\\Obimz01\\source\\repos\\Game-Project2\\Game-Project2\\Game.cs",
+              "RelativeToolTip": "Game-Project2\\Game.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:03:50.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Obimz01\\source\\repos\\Game-Project2\\Game-Project2\\Program.cs",
+              "RelativeDocumentMoniker": "Game-Project2\\Program.cs",
+              "ToolTip": "C:\\Users\\Obimz01\\source\\repos\\Game-Project2\\Game-Project2\\Program.cs",
+              "RelativeToolTip": "Game-Project2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:01:04.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

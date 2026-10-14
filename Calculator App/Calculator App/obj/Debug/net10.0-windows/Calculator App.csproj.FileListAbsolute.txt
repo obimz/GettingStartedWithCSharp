@@ -1,0 +1,17 @@
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\bin\Debug\net10.0-windows\Calculator App.exe
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\bin\Debug\net10.0-windows\Calculator App.deps.json
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\bin\Debug\net10.0-windows\Calculator App.runtimeconfig.json
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\bin\Debug\net10.0-windows\Calculator App.dll
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\bin\Debug\net10.0-windows\Calculator App.pdb
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator App.csproj.GenerateResource.cache
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator App.AssemblyInfoInputs.cache
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator App.AssemblyInfo.cs
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator App.dll
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\refint\Calculator App.dll
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator App.pdb
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator App.genruntimeconfig.cache
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\ref\Calculator App.dll
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculat.994BA68C.Up2Date
+C:\Users\Obimz01\source\repos\Calculator App\Calculator App\obj\Debug\net10.0-windows\Calculator_App.Application.resources

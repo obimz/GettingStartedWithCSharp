@@ -1,0 +1,15 @@
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\bin\Debug\net10.0\Game-Project2.exe
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\bin\Debug\net10.0\Game-Project2.deps.json
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\bin\Debug\net10.0\Game-Project2.runtimeconfig.json
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\bin\Debug\net10.0\Game-Project2.dll
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\bin\Debug\net10.0\Game-Project2.pdb
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\Game-Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\Game-Project2.AssemblyInfoInputs.cache
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\Game-Project2.AssemblyInfo.cs
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\Game-Project2.csproj.CoreCompileInputs.cache
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\Game-Project2.dll
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\refint\Game-Project2.dll
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\Game-Project2.pdb
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\Game-Project2.genruntimeconfig.cache
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\ref\Game-Project2.dll
+C:\Users\Obimz01\source\repos\Game-Project2\Game-Project2\obj\Debug\net10.0\Game-Pro.0B5523D1.Up2Date

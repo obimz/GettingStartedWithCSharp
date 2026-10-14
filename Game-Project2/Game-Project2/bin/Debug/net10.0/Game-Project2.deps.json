@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Game-Project2/1.0.0": {
+        "runtime": {
+          "Game-Project2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game-Project2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

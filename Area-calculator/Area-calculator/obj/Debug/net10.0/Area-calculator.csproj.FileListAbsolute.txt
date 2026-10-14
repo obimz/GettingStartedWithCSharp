@@ -1,0 +1,15 @@
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\bin\Debug\net10.0\Area-calculator.exe
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\bin\Debug\net10.0\Area-calculator.deps.json
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\bin\Debug\net10.0\Area-calculator.runtimeconfig.json
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\bin\Debug\net10.0\Area-calculator.dll
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\bin\Debug\net10.0\Area-calculator.pdb
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\Area-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\Area-calculator.AssemblyInfoInputs.cache
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\Area-calculator.AssemblyInfo.cs
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\Area-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\Area-calculator.dll
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\refint\Area-calculator.dll
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\Area-calculator.pdb
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\Area-calculator.genruntimeconfig.cache
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\ref\Area-calculator.dll
+C:\Users\Obimz01\source\repos\Area-calculator\Area-calculator\obj\Debug\net10.0\Area-cal.EA8003DE.Up2Date
